@@ -1,0 +1,12 @@
+# Log Analyzer Requirements
+# Standard library only - no external dependencies needed!
+# Python 3.8+
+
+# All imports are from Python standard library:
+# - argparse (CLI argument parsing)
+# - re (regex for pattern matching)
+# - json (JSON parsing)
+# - collections.Counter (counting occurrences)
+# - datetime (timestamp parsing)
+# - pathlib (file path handling)
+# - typing (type hints)
